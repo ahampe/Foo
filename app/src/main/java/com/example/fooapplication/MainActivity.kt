@@ -41,3 +41,4 @@ class FooAdapter(private val items: List<String>) : RecyclerView.Adapter<FooAdap
 
     class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView)
 }
+
